@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayomide Ajisefinni
 
-<!--
-**ayomidee3/ayomidee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Next.js | TypeScript | React**
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Developer focused on building fast, scalable, and user-friendly web experiences using **Next.js** and **TypeScript**.  
+I love turning complex ideas into elegant, functional interfaces — blending performance, design, and usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’ve Built
+- **[RecruitaxHQ](https://www.recruitaxhq.com)** – HR & Recruitment SaaS platform  
+- **[CionEnergy](https://www.cionenergy.com)** – Corporate energy management website  
+
+### 🧠 Tech Stack
+`Next.js` • `TypeScript` • `React` • `TailwindCSS` • `REST APIs` • `Git` • `Vercel`
+
+### 📫 Let’s Collaborate
+[ayomideajisefinni@gmail.com](mailto:ayomideajisefinni@gmail.com)
+
+---
+💡 *Open to exciting remote frontend opportunities and collaborations.*
