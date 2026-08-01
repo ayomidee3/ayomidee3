@@ -194,7 +194,7 @@ AI-powered academic research assistant for students and researchers.
 
 - 🌐 https://www.firsttouchng.com
 - 📧 ayomide@firsttouchng.com
-- 💼 LinkedIn
+- 💼 <a href="https://www.linkedin.com/in/ayomide-ajisefinni-strategy">LinkedIn</a>
 - 📺 YouTube — Ayomide Talks AI
 
 ---
