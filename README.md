@@ -190,18 +190,6 @@ AI-powered academic research assistant for students and researchers.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayomidee3&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayomidee3&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Let's Connect
 
 - 🌐 https://www.firsttouchng.com
