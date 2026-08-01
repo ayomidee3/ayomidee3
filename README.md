@@ -14,7 +14,7 @@ Building AI-powered products, enterprise applications, modern websites, automati
 <img src="https://img.shields.io/badge/Website-Firsttouch-0A66C2?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/ayomide-ajisefinni-strategy">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
